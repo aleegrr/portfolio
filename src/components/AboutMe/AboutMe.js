@@ -434,7 +434,7 @@ function Experience() {
       <div>
         <h2>DOCENTE CURSOS ONLINE</h2>
         <p>
-          - Docente en varios cursos de informatica como Desarrollo Web,
+          - Docente en varios cursos de informática como Desarrollo Web,
           Ciberseguridad, Inteligencia Artificial...
         </p>
       </div>

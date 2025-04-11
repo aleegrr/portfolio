@@ -9,7 +9,7 @@ Este portfolio es una PWA, asi que puedes instalar la aplicacion en tu dispositi
 ![img](src/assets/logo_fondo_blanco_4.png)
 
 ![img](src/assets/portfolio/portfolioWhite.png)
-![img](src/assets/portfolio/portafolioBlack.png)
+![img](src/assets/portfolio/portfolioBlack.png)
 
 ## **DEMO**
 
