@@ -450,10 +450,7 @@ function CV() {
         de contacto y mandarme un correo.
       </p>
       <button type="button" className="boxShadow" disabled>
-        <a
-          href="https://www.canva.com/design/DAF5V8qXKyI/KsJbt2UleZXP-V6weA4xmw/view?utm_content=DAF5V8qXKyI&utm_campaign=designshare&utm_medium=link&utm_source=editor"
-          alt="curriculum"
-        >
+        <a href="/public/Curriculum.pdf" alt="curriculum">
           ABRIR CV
         </a>
       </button>
@@ -467,7 +464,7 @@ function AboutMe() {
     <section className={styles.aboutMe} id="about">
       <div className={styles.aboutContainer}>
         <div className={styles.AboutLeft}>
-          <span>Actualizado el 11 de Abril de 2025</span>
+          <span>Actualizado el 06 de junio de 2025</span>
           <div className={styles.leftImg}>
             <img
               src={hero}

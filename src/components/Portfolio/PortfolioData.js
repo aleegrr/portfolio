@@ -78,6 +78,29 @@ const data = [
       page: 'https://huggingface.co/spaces/aleegr/chatBotBasket',
     },
   },
+  {
+    id: 4,
+    year: '2025',
+    date: '19/06/2025',
+    category: 'IA',
+    title: 'ChronosAI',
+    image: 'chronosai.png',
+    technologies: [
+      'Python',
+      'Streamlit',
+      'Langchain',
+      'Langchain OPENAI',
+      'Langfuse',
+      'HuggingFace',
+      'Eslint',
+      'Prettier',
+    ],
+    desc: `Este es el proyecto final de mi máster en Desarrollo Full-Stack & Inteligencia Artificial. En este proyecto he tenido que usar todo lo aprendido durante el máster, sobre todo el uso de modelos de IA. El proyecto trata de un asistente para resolver todas las dudas que tenga un empleado que normalmente se hacen al departamento de RRHH, para eliminar tiempo de trabajo de este departamento (hasta ahora solo funciona con nóminas, pero el resto de funcionalidades están en proceso).  Este proyecto me ha ayudado a mejorar mis habilidades tanto en el uso de modelos de IA como en entrenamientos de los mismos a partir de datos. También he aprendido a integrar diferentes APIs para mejorar la funcionalidad de los modelos.`,
+    links: {
+      code: 'https://github.com/aleegrr/ChronosAI',
+      page: 'https://chronosai.streamlit.app/',
+    },
+  },
 ];
 
 export default data;
